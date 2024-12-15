@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Navneet-J-Code
+- 👋 Hi, I’m @navneet_jha_code
 - 👀 I’m interested in web, game dev and competitive programming
 - 🌱 I’m currently learning DSA in C++
 - 💞️ I’m looking to collaborate on 
